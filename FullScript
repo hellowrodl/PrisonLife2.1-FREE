@@ -1,0 +1,11 @@
+
+-- This Script was primarily made using SYNAPSE X in 2023, Although Fully Tested with WAVE some parts of the script were not coded properly.
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hellowrodl/PrisonLife2.1-FREE/main/LOADER"))()
+
+wait(4)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hellowrodl/PrisonLife2.1-FREE/main/Script"))()
+
+-- (NOT MADE FOR SOLARA ) 
